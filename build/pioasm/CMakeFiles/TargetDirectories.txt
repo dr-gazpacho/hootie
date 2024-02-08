@@ -1,0 +1,3 @@
+/home/gonzalo-andres-gazpacho/pico/hootie/build/pioasm/CMakeFiles/rebuild_cache.dir
+/home/gonzalo-andres-gazpacho/pico/hootie/build/pioasm/CMakeFiles/edit_cache.dir
+/home/gonzalo-andres-gazpacho/pico/hootie/build/pioasm/CMakeFiles/pioasm.dir
